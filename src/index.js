@@ -68,3 +68,4 @@ function clearMarkup() {
     placeForCountryInfo.innerHTML = "";
     placeForCountryList.innerHTML = "";
 }
+//test
