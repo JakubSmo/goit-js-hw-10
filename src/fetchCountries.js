@@ -18,4 +18,3 @@ function fetchData(country) {
 }
 
 export default fetchData;
-// test
